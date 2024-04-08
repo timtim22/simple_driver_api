@@ -33,8 +33,8 @@ Configure environment variables by creating a .env file in the root directory an
 STORAGE_BACKEND=s3
 AWS_BUCKET=myawsblobbucket
 AWS_REGION=eu-west-1
-AWS_SECRET_ACCESS_KEY=Akj4KokdYAPs6fvmM+B1K\/66QKHPKaKbzc\/AYZ3O
-AWS_ACCESS_KEY_ID=AKIARXZCWR4WQYZM5V6Y
+AWS_SECRET_ACCESS_KEY=test_secret_access_key
+AWS_ACCESS_KEY_ID=test_access_key_id
 STORAGE_DIRECTORY=/Users/taimoor/Downloads
 FTP_HOST=ftp://ftp.example.com
 FTP_USER=ftpuser
